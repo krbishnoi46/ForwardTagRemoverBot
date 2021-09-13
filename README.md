@@ -7,17 +7,7 @@
 
 
 ```
-Bitcoin -> 
-bc1qt4andmh0f269rplanc27mvesnm24qg4pl235m2
 
-Litecoin -> 
-ltc1q92qe8x3m9dwtpcj9y36txlm3yk5crmhz8ehf9e
-
-Ethereum -> 
-0xF1e227d2ECAFe2725A5f4F03875191a2EfAC8dfe
-
-Bitcoin Cash ->
-qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ```
 
@@ -71,7 +61,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
  
 ### Installation (Cloud) 🌩
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/krbishnoi46/ForwardTagRemoverBot/tree/main)
 
 <br/>
 
@@ -84,12 +74,12 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ## Bugs 🐞🐞
 
-[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
-[![GitHub issues](https://img.shields.io/github/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/KR_Bots)
+[![GitHub issues](https://img.shields.io/github/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/krbishnoi46/ForwardTagRemoverBot/issues/)
 
 ### Contributions are Invited 🙂
 
-**©[Artis7eeR](https://github.com/Artis7eeR)**
+**©[KR Bishnoi](https://github.com/krbishnoi46)**
 
 
 
